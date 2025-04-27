@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "WEB",
+    "Projects": [
+      {
+        "Path": "BlazorAppTest2\\BlazorAppTest2\\BlazorAppTest2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BlazorAppTestREST_API\\BlazorAppTestREST_API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
